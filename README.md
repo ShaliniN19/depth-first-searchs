@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: </h3>
-<h3>Register Number:     </h3>
+<h3>Name:Shalini N </h3>
+<h3>Register Number:  212224040305   </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -123,6 +123,10 @@ traversedpath = dfs(graph, start, visited, path)
 print(traversedpath)
 
 ## Output:
+<img width="1600" height="802" alt="WhatsApp Image 2026-07-27 at 10 50 42 AM" src="https://github.com/user-attachments/assets/9ba0ed7e-5d5f-410f-9921-ee51cb16e8b2" />
+ ## Result:
+ Thus the program was executed successfully
+
 
 <img width="1600" height="802" alt="WhatsApp Image 2026-07-27 at 10 50 42 AM" src="https://github.com/user-attachments/assets/7339a276-d1f0-4f18-bfdf-1240483d9f1d" />
 
