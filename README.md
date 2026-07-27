@@ -94,6 +94,7 @@ F H <BR>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
 ## Program:
+```
 from collections import defaultdict
 
 def dfs(graph, start, visited, path):
@@ -121,14 +122,13 @@ path = []
 
 traversedpath = dfs(graph, start, visited, path)
 print(traversedpath)
+```
 
 ## Output:
 <img width="1600" height="802" alt="WhatsApp Image 2026-07-27 at 10 50 42 AM" src="https://github.com/user-attachments/assets/9ba0ed7e-5d5f-410f-9921-ee51cb16e8b2" />
+
  ## Result:
  Thus the program was executed successfully
-
-
-<img width="1600" height="802" alt="WhatsApp Image 2026-07-27 at 10 50 42 AM" src="https://github.com/user-attachments/assets/7339a276-d1f0-4f18-bfdf-1240483d9f1d" />
 
 ## Result:
 thus the program was executed successfully
